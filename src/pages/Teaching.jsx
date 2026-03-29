@@ -13,7 +13,7 @@ export default function Teaching() {
         description="Dedicated to making complex CS and AI concepts accessible — from classrooms to YouTube."
       />
 
-      <div className="px-16 pt-14 pb-16 max-w-[960px] max-[900px]:px-8 max-[900px]:pt-10 max-[900px]:pb-12 max-[480px]:px-5 max-[480px]:pt-7 max-[480px]:pb-10">
+      <div className="px-16 pt-14 pb-16 max-w-[1400px] mx-auto max-[900px]:px-8 max-[900px]:pt-10 max-[900px]:pb-12 max-[480px]:px-5 max-[480px]:pt-7 max-[480px]:pb-10">
         {/* Teaching Philosophy */}
         <div className="fade-in-up">
           <SectionTitle title="Teaching Philosophy" />

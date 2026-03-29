@@ -9,9 +9,7 @@ export default function CertificateCard({ cert, onClick }) {
         style={{ background: cert.thumbGradient || 'linear-gradient(135deg, #0a1628 0%, #1a3a6e 100%)' }}
       >
         <div className="absolute inset-0 bg-white/0 group-hover:bg-white/5 transition-colors duration-300" />
-        <div className="relative transition-transform duration-300 group-hover:scale-110">
-          {cert.icon}
-        </div>
+        <div className="relative transition-transform duration-300 group-hover:scale-110" dangerouslySetInnerHTML={{ __html: cert.icon }} />
       </div>
       <div className="px-5 py-5">
         <div className="font-dm text-[0.92rem] font-bold text-navy mb-1.5 leading-tight group-hover:text-accent transition-colors duration-200">{cert.title}</div>

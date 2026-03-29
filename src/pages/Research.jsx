@@ -21,7 +21,7 @@ export default function Research() {
         description="Medical image analysis, deep learning, NLP, and precision agriculture — building AI solutions that matter."
       />
 
-      <div className="px-16 pt-14 pb-16 max-w-[960px] max-[900px]:px-8 max-[900px]:pt-10 max-[900px]:pb-12 max-[480px]:px-5 max-[480px]:pt-7 max-[480px]:pb-10">
+      <div className="px-16 pt-14 pb-16 max-w-[1400px] mx-auto max-[900px]:px-8 max-[900px]:pt-10 max-[900px]:pb-12 max-[480px]:px-5 max-[480px]:pt-7 max-[480px]:pb-10">
         {/* Stats */}
         <div className="flex gap-4 mb-12 flex-wrap fade-in-up">
           {stats.research.map((s, i) => <StatBox key={i} value={s.value} label={s.label} />)}
@@ -33,7 +33,7 @@ export default function Research() {
           <div className="grid grid-cols-[repeat(auto-fill,minmax(220px,1fr))] gap-4 mb-12">
             {research.areas.map((area, i) => (
               <div key={i} className="bg-card-bg border border-border rounded-2xl px-6 py-6 transition-all duration-300 hover:shadow-[0_8px_30px_rgba(10,22,40,0.08)] hover:-translate-y-[2px] group max-[480px]:px-4 max-[480px]:py-4" style={{ borderTop: `3px solid ${area.borderColor}` }}>
-                <div className="text-[1.6rem] mb-3 w-12 h-12 rounded-xl bg-surface flex items-center justify-center group-hover:scale-110 transition-transform duration-300">{area.icon}</div>
+                <div className="text-[1.6rem] mb-3 w-12 h-12 rounded-xl bg-surface flex items-center justify-center group-hover:scale-110 transition-transform duration-300" dangerouslySetInnerHTML={{ __html: area.icon }} />
                 <div className="font-playfair text-[1.02rem] font-bold text-navy mb-1.5 group-hover:text-accent transition-colors duration-200">{area.title}</div>
                 <div className="text-[0.88rem] text-text-muted leading-[1.7]">{area.description}</div>
               </div>

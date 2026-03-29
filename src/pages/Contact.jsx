@@ -12,7 +12,7 @@ export default function Contact() {
         description="Open to research collaborations, PhD inquiries, academic discussions, and teaching opportunities."
       />
 
-      <div className="px-16 pt-14 pb-16 max-w-[960px] max-[900px]:px-8 max-[900px]:pt-10 max-[900px]:pb-12 max-[480px]:px-5 max-[480px]:pt-7 max-[480px]:pb-10">
+      <div className="px-16 pt-14 pb-16 max-w-[1400px] mx-auto max-[900px]:px-8 max-[900px]:pt-10 max-[900px]:pb-12 max-[480px]:px-5 max-[480px]:pt-7 max-[480px]:pb-10">
         {/* PhD Banner */}
         <div className="relative rounded-2xl px-10 py-10 mb-12 text-white overflow-hidden fade-in-up max-[480px]:px-6 max-[480px]:py-7"
           style={{ background: 'linear-gradient(135deg, #0a1628 0%, #132240 40%, #1a3a6e 100%)' }}
@@ -50,7 +50,7 @@ export default function Contact() {
           <div className="grid grid-cols-[repeat(auto-fill,minmax(210px,1fr))] gap-4">
             {contactData.openFor.map((item, i) => (
               <div key={i} className="bg-card-bg border border-border rounded-2xl px-5 py-7 text-center transition-all duration-300 hover:shadow-[0_8px_24px_rgba(10,22,40,0.07)] hover:-translate-y-[2px] group">
-                <div className="text-[1.5rem] mb-3 w-12 h-12 rounded-xl bg-surface flex items-center justify-center mx-auto group-hover:scale-110 transition-transform duration-300">{item.icon}</div>
+                <div className="text-[1.5rem] mb-3 w-12 h-12 rounded-xl bg-surface flex items-center justify-center mx-auto group-hover:scale-110 transition-transform duration-300" dangerouslySetInnerHTML={{ __html: item.icon }} />
                 <div className="font-dm text-[0.95rem] font-bold text-navy group-hover:text-accent transition-colors duration-200">{item.label}</div>
               </div>
             ))}
