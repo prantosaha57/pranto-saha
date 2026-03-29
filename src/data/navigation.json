@@ -1,0 +1,22 @@
+{
+  "profile": {
+    "name": "Pranto Saha",
+    "title": "Lecturer · Researcher",
+    "avatar": "/Profile_Photo.jpg"
+  },
+  "links": [
+    { "path": "/", "label": "Home" },
+    { "path": "/research", "label": "Research" },
+    { "path": "/teaching", "label": "Teaching" },
+    { "path": "/achievements", "label": "Achievements" },
+    { "path": "/blog", "label": "Blog" },
+    { "path": "/recommendations", "label": "Recommendations" },
+    { "path": "/cv", "label": "CV" },
+    { "path": "/contact", "label": "Contact" }
+  ],
+  "social": [
+    { "label": "Email", "href": "mailto:saha15-4157@diu.edu.bd", "external": false },
+    { "label": "GitHub", "href": "https://github.com/prantosaha57", "external": true },
+    { "label": "LinkedIn", "href": "https://linkedin.com/in/prantosaha57", "external": true }
+  ]
+}

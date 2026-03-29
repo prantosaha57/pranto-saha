@@ -1,0 +1,44 @@
+{
+  "lors": [
+    {
+      "id": "lor-zahid",
+      "icon": "📜",
+      "name": "Dr. Md. Zahid Hasan",
+      "role": "Associate Professor & Lab Director, Dept. of CSE · <a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>",
+      "content": "<div style='margin-bottom:14px;font-family:DM Sans,sans-serif;font-size:0.72rem;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:#5a6478;'>Associate Professor & Lab Director, Dept. of CSE · Daffodil International University</div><p>To Whom It May Concern,</p><p>It is my great pleasure to recommend <strong>Pranto Saha</strong>, whom I have had the privilege of supervising as both his undergraduate thesis supervisor and research mentor at the <strong>Health Informatics Research Lab (HIRL)</strong> since July 2022.</p><p>Pranto has consistently demonstrated exceptional research aptitude and intellectual curiosity. His work on self-supervised learning for chest X-ray classification has produced a framework achieving <strong>95.99% accuracy</strong> — results that are publication-worthy and have been submitted to a leading Springer journal.</p><p>Beyond technical competence, Pranto shows remarkable independence, initiative, and collaborative spirit. He has made significant contributions to multiple research projects within our lab and has mentored junior researchers with patience and clarity.</p><p>I strongly recommend Pranto Saha for PhD admission without reservation. He has the intellectual foundation, work ethic, and research drive to thrive in a doctoral program.</p><p style='margin-top:18px;'><strong>Dr. Md. Zahid Hasan</strong><br>Associate Professor & Lab Director, Dept. of CSE<br>Daffodil International University<br><a href='mailto:zahid.cse@diu.edu.bd' style='color:#2e6db4'>zahid.cse@diu.edu.bd</a></p><div style='margin-top:16px;padding:12px 14px;background:#fdf5e6;border-radius:6px;font-family:DM Sans,sans-serif;font-size:0.78rem;color:#a0730a;'>📄 This is a sample representation. Replace with the actual scanned LOR PDF link or text when available.</div>"
+    },
+    {
+      "id": "lor-bimal",
+      "icon": "📜",
+      "name": "Prof. Dr. Bimal Chandra Das",
+      "role": "Associate Dean, FSIT · Dept. of ITM · <a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>",
+      "content": "<div style='margin-bottom:14px;font-family:DM Sans,sans-serif;font-size:0.72rem;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:#5a6478;'>Associate Dean, FSIT · Dept. of ITM · Daffodil International University</div><p>To Whom It May Concern,</p><p>I write with great enthusiasm to recommend <strong>Pranto Saha</strong> for PhD candidacy. I have had the opportunity to observe Pranto's academic development over the course of his undergraduate studies at <a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>.</p><p>Pranto is among the most diligent and academically gifted students I have encountered in my years in the faculty. His CGPA of <strong>3.94/4.00</strong> and multiple merit scholarships, including three instances of a perfect 4.00, speak to his consistent excellence.</p><p>What distinguishes Pranto is not merely academic performance but his ability to synthesize knowledge across domains — from deep learning to academic leadership. He has represented our institution admirably in national and international forums.</p><p>I give my highest recommendation to Pranto Saha for doctoral study. I am confident he will excel and contribute meaningfully to his chosen research area.</p><p style='margin-top:18px;'><strong>Prof. Dr. Bimal Chandra Das</strong><br>Associate Dean, FSIT · Dept. of ITM<br>Daffodil International University<br><a href='mailto:bcdas@daffodilvarsity.edu.bd' style='color:#2e6db4'>bcdas@daffodilvarsity.edu.bd</a></p><div style='margin-top:16px;padding:12px 14px;background:#fdf5e6;border-radius:6px;font-family:DM Sans,sans-serif;font-size:0.78rem;color:#a0730a;'>📄 This is a sample representation. Replace with the actual scanned LOR PDF link or text when available.</div>"
+    }
+  ],
+  "testimonials": [
+    {
+      "initials": "ZH",
+      "name": "Dr. Md. Zahid Hasan",
+      "role": "Associate Professor & Lab Director, DIU · Thesis Supervisor",
+      "text": "Pranto is one of the most dedicated student-researchers I've worked with. His ability to grasp complex deep learning concepts and translate them into publishable research within a short time is truly impressive."
+    },
+    {
+      "initials": "FJ",
+      "name": "Asst. Prof. Fatema Tuj Johora",
+      "role": "Department of CSE, Daffodil International University",
+      "text": "I had Pranto as a teaching assistant in our lab, and the difference he made for students was remarkable. He explains algorithms with a clarity and patience that is rare — students genuinely looked forward to his sessions."
+    },
+    {
+      "initials": "S",
+      "name": "Student — Q-Bit Learning",
+      "role": "Python & Machine Learning Class, 2024",
+      "text": "As a student in Pranto's Python class at Q-Bit Learning, I went from complete beginner to building my own ML projects in three months. His Bengali explanations made the hardest concepts feel simple."
+    },
+    {
+      "initials": "IA",
+      "name": "Irfan Ahmed Alvi",
+      "role": "Research Collaborator, HIRL · Co-author on 3 papers",
+      "text": "Working with Pranto on our agriculture paper was a great experience. He brings both strong technical skills and a collaborative attitude to research — always ready to discuss, iterate, and improve the work."
+    }
+  ]
+}

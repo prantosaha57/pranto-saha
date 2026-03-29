@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2025",
+    "badgeType": "position",
+    "badgeLabel": "🎓 New Degree",
+    "title": "Enrolled in MSc — CSE (Major: Data Science)",
+    "description": "Now pursuing a Master of Science in Computer Science & Engineering with a major in <strong>Data Science</strong> at <a href='https://daffodilvarsity.edu.bd/' target='_blank'>Daffodil International University</a>."
+  },
+  {
+    "date": "2025",
+    "badgeType": "pub",
+    "badgeLabel": "🏅 BSc Completed",
+    "title": "Graduated BSc CSE — CGPA 3.94/4.00, 4th Rank",
+    "description": "Completed BSc in Computer Science & Engineering at <a href='https://daffodilvarsity.edu.bd/' target='_blank'>DIU</a> with CGPA <strong>3.94/4.00</strong>, achieving <strong>4th Rank</strong> in the program."
+  },
+  {
+    "date": "Oct 2025",
+    "badgeType": "position",
+    "badgeLabel": "🏛️ New Position",
+    "title": "Appointed as Lecturer (Contractual)",
+    "description": "Joined the Department of Software Engineering at <a href='https://daffodilvarsity.edu.bd/' target='_blank'>Daffodil International University</a> as a Lecturer."
+  },
+  {
+    "date": "Feb 2025",
+    "badgeType": "pub",
+    "badgeLabel": "📄 IEEE Published",
+    "title": "Paper Published at IEEE ECCE 2025",
+    "description": "<em>3D Reconstruction of Colonic Polyps</em> published and presented at <a href='https://doi.org/10.1109/ecce64574.2025.11013942' target='_blank'>IEEE ECCE 2025</a>."
+  },
+  {
+    "date": "2025",
+    "badgeType": "award",
+    "badgeLabel": "🥉 Award",
+    "title": "2nd Runner-Up — DIU-DoR Poster Presentation",
+    "description": "Awarded 2nd Runner-Up in the Undergraduate Segment at <a href='https://daffodilvarsity.edu.bd/' target='_blank'>DIU</a> Research Poster Presentation."
+  },
+  {
+    "date": "2025",
+    "badgeType": "event",
+    "badgeLabel": "🎙️ Conference",
+    "title": "Session Moderator — IDAA 2025",
+    "description": "Served as Session Moderator at the International Conference on Intelligent Data Analysis and Applications."
+  },
+  {
+    "date": "2025",
+    "badgeType": "pub",
+    "badgeLabel": "📄 Under Review",
+    "title": "2 Papers Under Review at Springer & IJECE",
+    "description": "Chest X-ray SSL framework under review at <a href='https://www.springer.com/journal/13042' target='_blank'>IJMLC (Springer)</a>; Breast cancer XAI paper under review at IJECE."
+  },
+  {
+    "date": "2024",
+    "badgeType": "award",
+    "badgeLabel": "🏅 5th Place",
+    "title": "5th Position — Datathon Contest 2024",
+    "description": "Achieved 5th position at the <a href='https://www.kaggle.com' target='_blank'>Kaggle</a>-hosted Datathon organized by <a href='https://www.facebook.com/diucpc' target='_blank'>DIU-CPC</a>."
+  },
+  {
+    "date": "2024",
+    "badgeType": "event",
+    "badgeLabel": "🖥️ Olympiad",
+    "title": "Divisional Round Qualifier — ICT Olympiad Bangladesh 2024",
+    "description": "Advanced to the divisional round of the national ICT Olympiad Bangladesh 2024."
+  }
+]

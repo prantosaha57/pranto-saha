@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2025 – Present",
+    "title": "MSc in Computer Science & Engineering",
+    "org": "<a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>, Dhaka, Bangladesh",
+    "description": "<strong>Major: Data Science</strong> · Currently enrolled",
+    "tags": [{ "label": "Current", "variant": "gold" }, { "label": "Data Science", "variant": "" }, { "label": "Machine Learning", "variant": "" }]
+  },
+  {
+    "date": "May 2021 – 2025",
+    "title": "BSc in Computer Science & Engineering",
+    "org": "<a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>, Ashulia, Savar, Bangladesh",
+    "description": "<strong>CGPA: 3.94 / 4.00 — 4th Rank in Batch</strong><br><em>Thesis:</em> A Hybrid Deep Learning Framework for Multi-Class Chest X-Ray Classification Using Self-Supervised Learning<br><em>Supervisor:</em> <a href='mailto:zahid.cse@diu.edu.bd' style='color:#2e6db4'>Dr. Md Zahid Hasan</a>, Associate Professor, Dept. of CSE, DIU",
+    "tags": [{ "label": "Completed", "variant": "green" }, { "label": "Deep Learning", "variant": "" }, { "label": "AI", "variant": "" }]
+  },
+  {
+    "date": "May 2017 – Mar 2019",
+    "title": "Higher Secondary Certificate (HSC)",
+    "org": "<a href='https://www.abdurroufcollege.ac.bd/' target='_blank' style='color:#2e6db4'>Birshrestha Munshi Abdur Rouf Public College</a>, Dhaka",
+    "description": "Science Stream · <strong>GPA: 4.08 / 5.00</strong>",
+    "tags": []
+  },
+  {
+    "date": "2015 – 2017",
+    "title": "Secondary School Certificate (SSC)",
+    "org": "<a href='https://maguragovthighschool.jessoreboard.gov.bd/' target='_blank' style='color:#2e6db4'>Magura Govt. High School</a>",
+    "description": "Science Stream · <strong>GPA: 5.00 / 5.00 (Perfect Score)</strong>",
+    "tags": [{ "label": "Perfect GPA", "variant": "green" }]
+  }
+]

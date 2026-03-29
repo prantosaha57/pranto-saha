@@ -1,0 +1,58 @@
+[
+  {
+    "date": "Oct 2025 – Present",
+    "title": "Lecturer (Contractual)",
+    "org": "Dept. of Software Engineering · <a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>",
+    "description": "Designing and delivering undergraduate courses, supporting students, conducting research.",
+    "tags": []
+  },
+  {
+    "date": "Jul 2022 – Present",
+    "title": "Researcher",
+    "org": "<a href='https://hirl.daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Health Informatics Research Lab (HIRL)</a>, DIU",
+    "description": "Medical image processing, object detection, NLP, and precision agriculture using ML/DL.",
+    "tags": []
+  },
+  {
+    "date": "Mar 2024 – Present",
+    "title": "Vice President — R&J Wing",
+    "org": "<a href='https://www.facebook.com/diucpc' target='_blank' style='color:#2e6db4'>DIU Computer & Programming Club (DIU-CPC)</a>",
+    "description": "Leading research and journal activities; organized courses, workshops, contests including Datathon and Prompt Battle 2024.",
+    "tags": []
+  },
+  {
+    "date": "May 2023 – Present",
+    "title": "CEO & Co-Founder",
+    "org": "Q-Bit Learning, Dhaka",
+    "description": "Advancing education through adaptive teaching, team management, and innovative strategies.",
+    "tags": []
+  },
+  {
+    "date": "Jan 2025 – Sep 2025",
+    "title": "Teaching Assistant",
+    "org": "<a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>",
+    "description": "Assisted in lectures, labs, and tutorials; supported assessments and guided student projects.",
+    "tags": []
+  },
+  {
+    "date": "Jul 2024 – Dec 2024",
+    "title": "Course Developer — Computer Vision & Deep Learning for Medical Data Analysis",
+    "org": "<a href='https://hirl.daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Health Informatics Research Lab (HIRL)</a>",
+    "description": "Developed curriculum for an Advanced ML & Deep Learning Bootcamp; organized BLC platform.",
+    "tags": []
+  },
+  {
+    "date": "Jul 2023 – Dec 2024",
+    "title": "Instructor",
+    "org": "Q-Bit Learning, Dhaka",
+    "description": "Taught algorithms, OOP, and C programming with emphasis on practical application.",
+    "tags": []
+  },
+  {
+    "date": "Jun 2022 – Jun 2023",
+    "title": "Lab Prefect (Algorithm)",
+    "org": "<a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>",
+    "description": "Assisted Algorithm Lab, reviewed lab reports, provided student feedback.",
+    "tags": []
+  }
+]

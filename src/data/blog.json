@@ -1,0 +1,62 @@
+[
+  {
+    "source": "linkedin",
+    "sourceLabel": "🔗 LinkedIn",
+    "title": "How I Got My First IEEE Paper Published as an Undergrad",
+    "excerpt": "Getting a paper published at IEEE ECCE 2025 as an undergraduate student was a journey full of revisions, rejections, and resilience. Here's what I learned about the research process...",
+    "tags": ["Research Tips", "IEEE"],
+    "date": "Add your date here",
+    "link": "https://linkedin.com/in/prantosaha",
+    "linkLabel": "Read on LinkedIn →"
+  },
+  {
+    "source": "journal",
+    "sourceLabel": "📖 Academic",
+    "title": "Self-Supervised Learning for Medical Imaging: A Beginner's Guide",
+    "excerpt": "Self-supervised learning is transforming how we approach medical image analysis. Unlike supervised methods, SSL doesn't require large labeled datasets — making it ideal for clinical environments where annotations are scarce...",
+    "tags": ["Machine Learning", "Medical AI"],
+    "date": "Add your date here",
+    "link": "#",
+    "linkLabel": "Read More →"
+  },
+  {
+    "source": "medium",
+    "sourceLabel": "✍️ Personal",
+    "title": "Why I Teach Programming in Bengali — And Why It Matters",
+    "excerpt": "When I started my YouTube channel, I made a deliberate choice: I would teach Python and algorithms in Bengali. Here's why that decision changed the way I think about education and access...",
+    "tags": ["Education", "Bengali"],
+    "date": "Add your date here",
+    "link": "https://youtube.com",
+    "linkLabel": "Watch on YouTube →"
+  },
+  {
+    "source": "linkedin",
+    "sourceLabel": "🔗 LinkedIn",
+    "title": "PhD Applications: What I've Learned So Far",
+    "excerpt": "Preparing for a PhD is different from anything I've done before. From identifying supervisors to crafting a research statement, here are the key lessons from my ongoing PhD application journey...",
+    "tags": ["PhD", "Career"],
+    "date": "Add your date here",
+    "link": "https://linkedin.com/in/prantosaha",
+    "linkLabel": "Read on LinkedIn →"
+  },
+  {
+    "source": "facebook",
+    "sourceLabel": "📘 Facebook",
+    "title": "ICPC Dhaka Regional 2024 — My Experience as Closing Lead Volunteer",
+    "excerpt": "Being the Closing Lead Volunteer at ICPC Dhaka Regional 2024 was one of the most intense and rewarding experiences of my academic life. Managing the ceremony, coordinating with 200+ participants...",
+    "tags": ["ICPC", "Events"],
+    "date": "Add your date here",
+    "link": "https://www.facebook.com",
+    "linkLabel": "Read on Facebook →"
+  },
+  {
+    "source": "journal",
+    "sourceLabel": "📖 Academic",
+    "title": "Bengali NLP in 2025: Challenges and Opportunities",
+    "excerpt": "Despite being spoken by over 230 million people, Bengali remains a low-resource language in NLP research. Our recent work on depression detection in Bengali social media texts reveals both the challenges and the immense potential of this space...",
+    "tags": ["Bengali NLP", "Mental Health AI"],
+    "date": "Add your date here",
+    "link": "/research",
+    "linkLabel": "See Publication →"
+  }
+]

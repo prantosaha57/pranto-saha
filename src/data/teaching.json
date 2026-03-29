@@ -1,0 +1,60 @@
+{
+  "philosophy": [
+    "I believe in <strong>adaptive, student-centered teaching</strong>. My goal is to bridge the gap between theory and practice — ensuring students not only understand concepts but can apply them to real-world problems. I place strong emphasis on clarity, engagement, and building problem-solving intuition.",
+    "Having taught at multiple levels — from lab sessions to full lecture courses — I understand the diverse challenges students face. I design my courses to be inclusive, practical, and enriched with hands-on projects."
+  ],
+  "positions": [
+    {
+      "date": "Oct 2025 – Present",
+      "title": "Lecturer (Contractual)",
+      "org": "Dept. of Software Engineering · <a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>, Dhaka",
+      "description": "Designing and delivering undergraduate courses, conducting assessments, supporting students, and contributing to departmental research.",
+      "tags": [{ "label": "Current Position", "variant": "gold" }, { "label": "Undergraduate Teaching", "variant": "" }]
+    },
+    {
+      "date": "Jan 2025 – Sep 2025",
+      "title": "Teaching Assistant",
+      "org": "<a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>, Dhaka",
+      "description": "Assisted in lectures, labs, and tutorials; supported assessments; guided student projects; facilitated additional study groups.",
+      "tags": [{ "label": "Lab Instruction", "variant": "" }, { "label": "Student Mentoring", "variant": "" }]
+    },
+    {
+      "date": "Jul 2024 – Dec 2024",
+      "title": "Course Developer — Computer Vision & Deep Learning for Medical Data Analysis",
+      "org": "<a href='https://hirl.daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Health Informatics Research Lab (HIRL)</a>, Dhaka",
+      "description": "Developed full curriculum and materials for an Advanced ML & Deep Learning Bootcamp, including modules, assignments, and practical projects. Organized the BLC platform.",
+      "tags": [{ "label": "Curriculum Development", "variant": "" }, { "label": "Computer Vision", "variant": "" }, { "label": "Deep Learning", "variant": "" }]
+    },
+    {
+      "date": "Jul 2023 – Dec 2024",
+      "title": "Instructor",
+      "org": "Q-Bit Learning, Dhaka",
+      "description": "Taught algorithms, OOP, and C programming with emphasis on practical application and student engagement.",
+      "tags": [{ "label": "Algorithms", "variant": "" }, { "label": "OOP", "variant": "" }, { "label": "C Programming", "variant": "" }]
+    },
+    {
+      "date": "Jun 2022 – Jun 2023",
+      "title": "Lab Prefect — CSE (Algorithm)",
+      "org": "<a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>, Dhaka",
+      "description": "Assisted Algorithm Lab sessions under <a href='mailto:fatema@diu.edu.bd' style='color:#2e6db4'>Asst. Prof. Fatema Tuj Johora</a>, reviewed lab reports, and provided student feedback.",
+      "tags": []
+    }
+  ],
+  "subjects": [
+    { "title": "Data Structures & Algorithms", "description": "Problem-solving, sorting, graph algorithms, dynamic programming." },
+    { "title": "Machine Learning for Research", "description": "Supervised, semi-supervised, and deep learning for applied research." },
+    { "title": "Artificial Intelligence", "description": "Supervised, semi-supervised, and deep learning for applied research." },
+    { "title": "Computer Vision & Medical AI", "description": "Medical image analysis, object detection, segmentation, deep learning pipelines." },
+    { "title": "Python & OOP", "description": "Python fundamentals, object-oriented design, data science libraries." },
+    { "title": "C & C++ Programming", "description": "Systems programming, memory management, competitive programming." },
+    { "title": "Research Methodology (Vol. 5)", "description": "Academic writing, research design, literature review, publication ethics." },
+    { "title": "Operating Systems", "description": "Process management, memory management, file systems." },
+    { "title": "Software Architecture & Design", "description": "System design principles, architectural patterns, and best practices." }
+  ],
+  "youtube": {
+    "title": "Q-bit Learning",
+    "url": "https://www.youtube.com/@Q-bitLearning",
+    "description": "Creating educational videos on <strong>Python, OOP, algorithms, and machine learning in Bengali</strong> — making complex topics accessible for learners who find English-only resources challenging.",
+    "tags": ["Bengali", "Python", "OOP", "Algorithms", "Machine Learning"]
+  }
+}

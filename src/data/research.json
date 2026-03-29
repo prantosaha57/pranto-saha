@@ -1,0 +1,49 @@
+{
+  "areas": [
+    { "icon": "🫁", "title": "Medical Image Analysis", "description": "Chest X-ray classification, polyp detection, breast cancer diagnosis using deep learning.", "borderColor": "#c9973a" },
+    { "icon": "🧠", "title": "Semi-Supervised Learning", "description": "Self-supervised frameworks, SSL for imbalanced medical data, contrastive learning.", "borderColor": "#2e6db4" },
+    { "icon": "🌿", "title": "Precision Agriculture", "description": "CNN-based weed detection, plant classification, automated agricultural management.", "borderColor": "#2ea87a" },
+    { "icon": "💬", "title": "NLP & Bengali Text", "description": "Depression detection, transformer models (BanglaBERT), mental health AI.", "borderColor": "#a04e9a" }
+  ],
+  "projects": [
+    {
+      "title": "Medical Image Enhancement Tool",
+      "githubLink": "https://github.com/prantosaha",
+      "description": "Web-based medical image enhancement tool using <strong>Streamlit, OpenCV, and NumPy</strong>. Implements contrast adjustment, gamma correction, segmentation, filtering, and PSNR/SSIM evaluation with real-time visualization and download.",
+      "tags": ["Streamlit", "OpenCV", "NumPy"]
+    },
+    {
+      "title": "Cerebral Stroke Prediction using Machine Learning",
+      "githubLink": "https://github.com/prantosaha",
+      "description": "Predicted stroke risks using six ML models on a 43,400-instance dataset, achieving up to <strong>98% accuracy</strong>. Demonstrates ML potential in early healthcare intervention.",
+      "tags": ["Scikit-learn", "Python", "Healthcare AI"]
+    },
+    {
+      "title": "Automatic Plant Seedlings Classification Using Deep Learning",
+      "githubLink": "https://github.com/prantosaha",
+      "description": "Custom CNN with advanced preprocessing and hyperparameter tuning, achieving <strong>99% accuracy</strong> in classifying diverse plant species for agricultural applications.",
+      "tags": ["CNN", "PyTorch", "Precision Agriculture"]
+    },
+    {
+      "title": "DIU Bus Management System",
+      "githubLink": "https://github.com/prantosaha",
+      "description": "Platform for real-time bus tracking, ticket booking, and notifications for <a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a> using modern web technologies.",
+      "tags": ["Web Dev", "Real-time Tracking"]
+    }
+  ],
+  "thesis": {
+    "title": "A Hybrid Deep Learning Framework for Multi-Class Chest X-Ray Classification Using Self-Supervised Learning",
+    "status": "Completed — 2025",
+    "supervisor": "Dr. Md Zahid Hasan",
+    "supervisorEmail": "zahid.cse@diu.edu.bd",
+    "supervisorTitle": "Associate Professor & Lab Director, Dept. of CSE",
+    "description": "Hybrid deep learning framework using self-supervised pre-training, advanced encoders, LSTM, and attention mechanisms to classify pulmonary diseases from chest X-rays — achieving <strong>95.99% accuracy</strong> and outperforming existing methods on imbalanced data.",
+    "tags": [
+      { "label": "BSc Thesis — Completed 2025", "variant": "green" },
+      { "label": "Self-Supervised Learning", "variant": "" },
+      { "label": "LSTM", "variant": "" },
+      { "label": "Attention", "variant": "" },
+      { "label": "Chest X-Ray", "variant": "" }
+    ]
+  }
+}

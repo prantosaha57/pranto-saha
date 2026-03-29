@@ -1,0 +1,73 @@
+{
+  "details": [
+    { "icon": "📧", "label": "Email (Office)", "value": "pranto.swe0215.c@diu.edu.bd", "href": "mailto:pranto.swe0215.c@diu.edu.bd" },
+    { "icon": "📧", "label": "Email (Personal)", "value": "saha15-4157@diu.edu.bd", "href": "mailto:saha15-4157@diu.edu.bd" },
+    { "icon": "📞", "label": "Phone", "value": "+880 1828353948", "href": "tel:+8801828353948" },
+    { "icon": "📍", "label": "Location", "value": "Dhaka, Bangladesh", "href": null },
+    { "icon": "🏛️", "label": "Institution", "value": "<a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a> — Dept. of Software Engineering", "href": null }
+  ],
+  "profiles": [
+    { "icon": "💻", "label": "GitHub", "value": "github.com/prantosaha57", "href": "https://github.com/prantosaha57" },
+    { "icon": "💼", "label": "LinkedIn", "value": "linkedin.com/in/prantosaha57", "href": "https://linkedin.com/in/prantosaha57" },
+    { "icon": "▶️", "label": "YouTube Channel", "value": "Q-bit Learning", "href": "https://www.youtube.com/@Q-bitLearning" },
+    { "icon": "🎓", "label": "Google Scholar", "value": "Research Profile", "href": "https://scholar.google.com" },
+    { "icon": "🔬", "label": "ResearchGate", "value": "ResearchGate Profile", "href": "https://www.researchgate.net" }
+  ],
+  "openFor": [
+    { "icon": "🎓", "label": "PhD Opportunities" },
+    { "icon": "🤝", "label": "Research Collaboration" },
+    { "icon": "🗣️", "label": "Speaking & Seminars" },
+    { "icon": "📖", "label": "Academic Writing" },
+    { "icon": "💡", "label": "AI Consultancy" },
+    { "icon": "🎯", "label": "Peer Review" }
+  ],
+  "homeContact": [
+    { "icon": "📧", "label": "Email", "value": "saha15-4157@diu.edu.bd", "href": "mailto:saha15-4157@diu.edu.bd" },
+    { "icon": "💻", "label": "GitHub", "value": "github.com/prantosaha", "href": "https://github.com/prantosaha" },
+    { "icon": "💼", "label": "LinkedIn", "value": "linkedin.com/in/prantosaha", "href": "https://linkedin.com/in/prantosaha" },
+    { "icon": "📍", "label": "Location", "value": "Dhaka, Bangladesh", "href": null }
+  ],
+  "conferences": [
+    {
+      "title": "Session Moderator — <a href='#' style='color:#2e6db4'>IDAA 2025</a>",
+      "org": "International Conference on Intelligent Data Analysis and Applications",
+      "meta": "2025",
+      "tags": [{ "label": "International Conference", "variant": "gold" }],
+      "body": null
+    },
+    {
+      "title": "Closing Lead Volunteer — <a href='https://icpc.global/' target='_blank' style='color:#2e6db4'>ICPC Dhaka Regional Contest 2024</a>",
+      "org": "<a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>",
+      "meta": "2024",
+      "tags": [],
+      "body": "Oversaw the closing ceremony, coordinated teams and organizers."
+    },
+    {
+      "title": "Volunteer — BIM 2023",
+      "org": "International Conference on Big Data, IoT and Machine Learning (BIM 2023)",
+      "meta": "2023",
+      "tags": [],
+      "body": null
+    }
+  ],
+  "leadership": [
+    {
+      "title": "Organizer & Judge — Prompt Battle Contest 2024 (First Ever at <a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>DIU</a>)",
+      "org": "<a href='https://www.facebook.com/diucpc' target='_blank' style='color:#2e6db4'>DIU Computer & Programming Club (DIU-CPC)</a>",
+      "meta": "Fall 2024",
+      "body": "Designed problem statements, evaluated innovative prompts, and oversaw the first-ever Prompt Battle Contest at DIU."
+    },
+    {
+      "title": "Problem Setter — Datathon Contest Fall 2024",
+      "org": "DIU-CPC · Platform: <a href='https://www.kaggle.com' target='_blank' style='color:#2e6db4'>Kaggle</a>",
+      "meta": "2024",
+      "body": "Designed ML challenge problems for the Kaggle-hosted Datathon."
+    },
+    {
+      "title": "Judge — Idea Poster Presentation, DIU Data Science Summit 2024",
+      "org": "<a href='https://daffodilvarsity.edu.bd/' target='_blank' style='color:#2e6db4'>Daffodil International University</a>",
+      "meta": "2024",
+      "body": "Evaluated innovative AI and automation ideas from students at the Data Science Summit."
+    }
+  ]
+}

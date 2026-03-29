@@ -1,0 +1,190 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #0a1628;
+  --color-navy-light: #132240;
+  --color-blue: #1a3a6e;
+  --color-accent: #3b82f6;
+  --color-accent-light: #60a5fa;
+  --color-gold: #d4a843;
+  --color-gold-light: #f0d078;
+  --color-text-primary: #1a1a2e;
+  --color-text-muted: #64748b;
+  --color-bg: #f8fafc;
+  --color-card-bg: #ffffff;
+  --color-border: #e2e8f0;
+  --color-surface: #f1f5f9;
+
+  --font-playfair: 'Playfair Display', Georgia, serif;
+  --font-source: 'Source Serif 4', Georgia, serif;
+  --font-dm: 'Inter', 'DM Sans', system-ui, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-source);
+  background: var(--color-bg);
+  color: var(--color-text-primary);
+  line-height: 1.75;
+  min-height: 100vh;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* ===== Core layout — sidebar + main ===== */
+.site-main {
+  margin-left: 280px;
+  min-height: 100vh;
+}
+
+@media (max-width: 900px) {
+  .site-main {
+    margin-left: 0;
+  }
+}
+
+/* ===== Scroll-triggered fade-in animation ===== */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.fade-in-up-delay-1 { animation-delay: 0.08s; }
+.fade-in-up-delay-2 { animation-delay: 0.16s; }
+.fade-in-up-delay-3 { animation-delay: 0.24s; }
+.fade-in-up-delay-4 { animation-delay: 0.32s; }
+
+/* ===== Stagger children animation ===== */
+@keyframes staggerIn {
+  from {
+    opacity: 0;
+    transform: translateY(16px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ===== Subtle float animation for decorative elements ===== */
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-12px) rotate(2deg); }
+}
+
+@keyframes floatReverse {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(12px) rotate(-2deg); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.8; }
+}
+
+/* ===== Gradient text utility ===== */
+.gradient-text {
+  background: linear-gradient(135deg, var(--color-gold), var(--color-gold-light));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ===== Glass card effect ===== */
+.glass-card {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+/* ===== Shimmer border on hover ===== */
+.hover-border-glow {
+  position: relative;
+}
+
+.hover-border-glow::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  background: linear-gradient(135deg, transparent, var(--color-accent), transparent);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: -1;
+}
+
+.hover-border-glow:hover::before {
+  opacity: 0.15;
+}
+
+/* ===== Modal animation ===== */
+@keyframes modalIn {
+  from { opacity: 0; transform: translateY(24px) scale(0.96); }
+  to   { opacity: 1; transform: none; }
+}
+.animate-modal-in {
+  animation: modalIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* ===== Bio section ===== */
+.bio-section {
+  font-size: 1.06rem;
+  line-height: 1.85;
+  color: var(--color-text-primary);
+  margin-bottom: 28px;
+}
+.bio-section p { margin-bottom: 16px; }
+.bio-section strong { color: var(--color-navy); }
+.bio-section a {
+  color: var(--color-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+.bio-section a:hover {
+  border-bottom-color: var(--color-accent);
+}
+
+/* ===== Smooth scrollbar ===== */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-muted);
+}
+
+/* ===== Selection color ===== */
+::selection {
+  background: rgba(59, 130, 246, 0.15);
+  color: var(--color-navy);
+}
+
+@media (max-width: 480px) {
+  body { font-size: 15px; }
+}

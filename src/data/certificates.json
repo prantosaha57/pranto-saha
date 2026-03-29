@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Deep Learning with Computer Vision",
+    "issuer": "Innovative Skills",
+    "year": "2024",
+    "icon": "🎓",
+    "description": "Completed a comprehensive course on computer vision techniques, CNNs, object detection, and image segmentation using Python, TensorFlow, and OpenCV.",
+    "thumbGradient": null
+  },
+  {
+    "title": "Machine Learning — Advanced Learning Algorithms",
+    "issuer": "Coursera · Stanford University",
+    "year": "2024",
+    "icon": "🤖",
+    "description": "Part of the Machine Learning Specialization by Andrew Ng at Stanford University. Covered advanced supervised learning, decision trees, ensemble methods, neural networks, and best practices for ML systems.",
+    "thumbGradient": null
+  },
+  {
+    "title": "Vice President — DIU CPC (R&J Wing)",
+    "issuer": "Daffodil International University",
+    "year": "2024–Present",
+    "icon": "🏛️",
+    "description": "Appointed Vice President of the Research & Journal Wing of DIU-CPC. Led research activities, organized contests (Datathon, Prompt Battle), courses, and workshops.",
+    "thumbGradient": "linear-gradient(135deg,#c9973a,#e6b84a)"
+  },
+  {
+    "title": "2nd Runner-Up — DoR Poster Presentation",
+    "issuer": "Daffodil International University",
+    "year": "2025",
+    "icon": "🥉",
+    "description": "Awarded 2nd Runner-Up in the Undergraduate Segment of the DIU Department of Research (DoR) Poster Presentation competition for research on deep learning for chest X-ray analysis.",
+    "thumbGradient": "linear-gradient(135deg,#b87333,#d4956a)"
+  },
+  {
+    "title": "Session Moderator — IDAA 2025",
+    "issuer": "International Conference (IDAA 2025)",
+    "year": "2025",
+    "icon": "🎙️",
+    "description": "Served as Session Moderator at IDAA 2025, facilitating academic sessions on AI and intelligent data analysis.",
+    "thumbGradient": "linear-gradient(135deg,#1e4080,#2e6db4)"
+  },
+  {
+    "title": "ICPC Dhaka Regional — Closing Lead Volunteer",
+    "issuer": "ICPC · DIU",
+    "year": "2024",
+    "icon": "💻",
+    "description": "Served as Closing Lead Volunteer for ICPC Dhaka Regional 2024 at Daffodil International University, overseeing the closing ceremony and coordinating with organizers.",
+    "thumbGradient": "linear-gradient(135deg,#1a5c2a,#2e8a40)"
+  }
+]

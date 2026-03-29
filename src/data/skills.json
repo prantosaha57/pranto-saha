@@ -1,0 +1,7 @@
+[
+  { "title": "Programming Languages", "tags": [{ "label": "Python", "variant": "" }, { "label": "C", "variant": "" }, { "label": "C++", "variant": "" }, { "label": "Java", "variant": "" }] },
+  { "title": "ML & Deep Learning", "tags": [{ "label": "Supervised Learning", "variant": "" }, { "label": "Semi-Supervised Learning", "variant": "" }, { "label": "Computer Vision", "variant": "" }, { "label": "LLMs", "variant": "" }, { "label": "VLMs", "variant": "" }, { "label": "NLP", "variant": "" }] },
+  { "title": "Frameworks & Libraries", "tags": [{ "label": "TensorFlow", "variant": "" }, { "label": "PyTorch", "variant": "" }, { "label": "Scikit-learn", "variant": "" }, { "label": "Keras", "variant": "" }, { "label": "Hugging Face", "variant": "" }, { "label": "OpenCV", "variant": "" }, { "label": "NumPy", "variant": "" }, { "label": "Pandas", "variant": "" }, { "label": "Matplotlib", "variant": "" }, { "label": "Seaborn", "variant": "" }] },
+  { "title": "Tools & Platforms", "tags": [{ "label": "Git & GitHub", "variant": "" }, { "label": "LaTeX", "variant": "" }, { "label": "Power BI", "variant": "" }, { "label": "Linux", "variant": "" }, { "label": "Microsoft Office", "variant": "" }, { "label": "Google Workspace", "variant": "" }, { "label": "Asana", "variant": "" }, { "label": "Trello", "variant": "" }] },
+  { "title": "Languages", "tags": [{ "label": "Bengali (Native)", "variant": "green" }, { "label": "English (C1 Reading, B2 Listening)", "variant": "" }] }
+]
