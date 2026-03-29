@@ -75,8 +75,9 @@ export default function Home() {
               <div key={i} className={`flex gap-5 py-5 max-[480px]:flex-col max-[480px]:gap-2 ${i < news.length - 1 ? 'border-b border-border' : ''}`}>
                 <div className="shrink-0 w-[100px] font-dm text-[0.78rem] font-bold text-text-muted uppercase tracking-[0.5px] pt-1 max-[480px]:w-auto">{item.date}</div>
                 <div>
-                  <span className={`inline-block font-dm text-[0.73rem] font-bold px-2.5 py-[3px] rounded-md mb-2 ${badgeStyles[item.badgeType] || ''}`}>
-                    {item.badgeLabel}
+                  <span className={`inline-flex items-center gap-1.5 font-dm text-[0.73rem] font-bold px-2.5 py-[3px] rounded-md mb-2 ${badgeStyles[item.badgeType] || ''}`}>
+                    <span dangerouslySetInnerHTML={{ __html: item.badgeIcon }} />
+                    <span>{item.badgeText}</span>
                   </span>
                   <div className="font-bold text-[1rem] text-navy mb-1 leading-[1.4]">{item.title}</div>
                   <div className="text-[0.92rem] text-text-muted leading-[1.65]" dangerouslySetInnerHTML={{ __html: item.description }} />

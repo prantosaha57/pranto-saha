@@ -2,63 +2,72 @@
   {
     "date": "2025",
     "badgeType": "position",
-    "badgeLabel": "🎓 New Degree",
+    "badgeIcon": "<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M22 10v6M2 10l10-5 10 5-10 5z'/><path d='M6 12v5c0 2 2 3 6 3s6-1 6-3v-5'/></svg>",
+    "badgeText": "New Degree",
     "title": "Enrolled in MSc — CSE (Major: Data Science)",
     "description": "Now pursuing a Master of Science in Computer Science & Engineering with a major in <strong>Data Science</strong> at <a href='https://daffodilvarsity.edu.bd/' target='_blank'>Daffodil International University</a>."
   },
   {
     "date": "2025",
     "badgeType": "pub",
-    "badgeLabel": "🏅 BSc Completed",
+    "badgeIcon": "<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z'/><polyline points='14,2 14,8 20,8'/></svg>",
+    "badgeText": "BSc Completed",
     "title": "Graduated BSc CSE — CGPA 3.94/4.00, 4th Rank",
     "description": "Completed BSc in Computer Science & Engineering at <a href='https://daffodilvarsity.edu.bd/' target='_blank'>DIU</a> with CGPA <strong>3.94/4.00</strong>, achieving <strong>4th Rank</strong> in the program."
   },
   {
     "date": "Oct 2025",
     "badgeType": "position",
-    "badgeLabel": "🏛️ New Position",
+    "badgeIcon": "<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><rect x='2' y='3' width='20' height='14' rx='2' ry='2'/><line x1='8' y1='21' x2='16' y2='21'/><line x1='12' y1='17' x2='12' y2='21'/></svg>",
+    "badgeText": "New Position",
     "title": "Appointed as Lecturer (Contractual)",
     "description": "Joined the Department of Software Engineering at <a href='https://daffodilvarsity.edu.bd/' target='_blank'>Daffodil International University</a> as a Lecturer."
   },
   {
     "date": "Feb 2025",
     "badgeType": "pub",
-    "badgeLabel": "📄 IEEE Published",
+    "badgeIcon": "<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z'/><polyline points='14,2 14,8 20,8'/></svg>",
+    "badgeText": "IEEE Published",
     "title": "Paper Published at IEEE ECCE 2025",
     "description": "<em>3D Reconstruction of Colonic Polyps</em> published and presented at <a href='https://doi.org/10.1109/ecce64574.2025.11013942' target='_blank'>IEEE ECCE 2025</a>."
   },
   {
     "date": "2025",
     "badgeType": "award",
-    "badgeLabel": "🥉 Award",
+    "badgeIcon": "<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M6 9H4a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2'/><path d='M18 9h2a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-2'/><path d='M12 5v14'/><path d='M8 5v14'/><path d='M16 5v14'/><path d='M4 9v6'/><path d='M20 9v6'/><circle cx='12' cy='20' r='2'/><circle cx='8' cy='20' r='2'/><circle cx='16' cy='20' r='2'/></svg>",
+    "badgeText": "Award",
     "title": "2nd Runner-Up — DIU-DoR Poster Presentation",
     "description": "Awarded 2nd Runner-Up in the Undergraduate Segment at <a href='https://daffodilvarsity.edu.bd/' target='_blank'>DIU</a> Research Poster Presentation."
   },
   {
     "date": "2025",
     "badgeType": "event",
-    "badgeLabel": "🎙️ Conference",
+    "badgeIcon": "<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z'/><path d='M19 10v2a7 7 0 0 1-14 0v-2'/><line x1='12' y1='19' x2='12' y2='23'/><line x1='8' y1='23' x2='16' y2='23'/></svg>",
+    "badgeText": "Conference",
     "title": "Session Moderator — IDAA 2025",
     "description": "Served as Session Moderator at the International Conference on Intelligent Data Analysis and Applications."
   },
   {
     "date": "2025",
     "badgeType": "pub",
-    "badgeLabel": "📄 Under Review",
+    "badgeIcon": "<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z'/><polyline points='14,2 14,8 20,8'/><line x1='16' y1='13' x2='8' y2='13'/><line x1='16' y1='17' x2='8' y2='17'/><line x1='10' y1='9' x2='8' y2='9'/></svg>",
+    "badgeText": "Under Review",
     "title": "2 Papers Under Review at Springer & IJECE",
     "description": "Chest X-ray SSL framework under review at <a href='https://www.springer.com/journal/13042' target='_blank'>IJMLC (Springer)</a>; Breast cancer XAI paper under review at IJECE."
   },
   {
     "date": "2024",
     "badgeType": "award",
-    "badgeLabel": "🏅 5th Place",
+    "badgeIcon": "<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='8'/><path d='M12 8v4'/><path d='M8 12h8'/></svg>",
+    "badgeText": "5th Place",
     "title": "5th Position — Datathon Contest 2024",
     "description": "Achieved 5th position at the <a href='https://www.kaggle.com' target='_blank'>Kaggle</a>-hosted Datathon organized by <a href='https://www.facebook.com/diucpc' target='_blank'>DIU-CPC</a>."
   },
   {
     "date": "2024",
     "badgeType": "event",
-    "badgeLabel": "🖥️ Olympiad",
+    "badgeIcon": "<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><rect x='2' y='3' width='20' height='14' rx='2' ry='2'/><line x1='8' y1='21' x2='16' y2='21'/><line x1='12' y1='17' x2='12' y2='21'/></svg>",
+    "badgeText": "Olympiad",
     "title": "Divisional Round Qualifier — ICT Olympiad Bangladesh 2024",
     "description": "Advanced to the divisional round of the national ICT Olympiad Bangladesh 2024."
   }
