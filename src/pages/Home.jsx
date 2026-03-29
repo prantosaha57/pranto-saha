@@ -92,7 +92,7 @@ export default function Home() {
           <div className="grid grid-cols-[repeat(auto-fill,minmax(260px,1fr))] gap-4 mb-8">
             {contactData.homeContact.map((item, i) => (
               <div key={i} className="flex items-start gap-3.5 px-5 py-5 bg-card-bg border border-border rounded-2xl transition-all duration-300 hover:shadow-[0_8px_24px_rgba(10,22,40,0.06)] hover:-translate-y-[1px]">
-                <div className="text-[1.3rem] w-10 h-10 rounded-xl bg-surface flex items-center justify-center shrink-0">{item.icon}</div>
+                <div className="text-[1.3rem] w-10 h-10 rounded-xl bg-surface flex items-center justify-center shrink-0" dangerouslySetInnerHTML={{ __html: item.icon }} />
                 <div>
                   <div className="font-dm text-[0.75rem] font-bold uppercase tracking-[0.8px] text-text-muted mb-1">{item.label}</div>
                   <div className="text-[0.93rem] text-text-primary font-medium">
