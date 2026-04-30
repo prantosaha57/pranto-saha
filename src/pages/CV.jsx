@@ -12,7 +12,7 @@ export default function CV() {
     <>
       <HeroSection label="Curriculum Vitae" title="CV / R&eacute;sum&eacute;" description="Full academic and professional record — education, experience, skills, and certifications.">
         <div className="mt-7">
-          <a href="/Pranto CV_03_03_2026.pdf" download className="bg-gradient-to-r from-gold to-gold-light text-navy font-dm text-[0.92rem] font-bold px-7 py-3.5 rounded-xl no-underline inline-block hover:shadow-[0_8px_24px_rgba(212,168,67,0.3)] transition-all duration-300 hover:-translate-y-[1px]">Download Full CV (PDF)</a>
+          <a href="/Pranto CV.pdf" download className="bg-gradient-to-r from-gold to-gold-light text-navy font-dm text-[0.92rem] font-bold px-7 py-3.5 rounded-xl no-underline inline-block hover:shadow-[0_8px_24px_rgba(212,168,67,0.3)] transition-all duration-300 hover:-translate-y-[1px]">Download Full CV (PDF)</a>
         </div>
       </HeroSection>
 
